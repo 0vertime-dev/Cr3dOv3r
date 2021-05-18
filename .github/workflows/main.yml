@@ -1,0 +1,2 @@
+- name: GitHub sort forks
+  uses: ActionCloud/sort-forks-action@v1
